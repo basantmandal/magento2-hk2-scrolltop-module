@@ -46,3 +46,6 @@ phpcs.xml export-ignore
 *.eot binary
 *.zip binary
 *.gz binary
+
+# Exclude project scripts from GitHub language stats
+scripts/** linguist-documentation
