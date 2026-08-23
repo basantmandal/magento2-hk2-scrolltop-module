@@ -49,3 +49,4 @@ phpcs.xml export-ignore
 
 # Exclude project scripts from GitHub language stats
 scripts/** linguist-documentation
+dev/** linguist-documentation
